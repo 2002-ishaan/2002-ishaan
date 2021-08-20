@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Ishaan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
