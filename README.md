@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Computer Engineering at Thapar Institute of Technology, Patiala.\
-🌱 &nbsp;I'm on track for learning more about Backend Development, Machine Learning, and DSA.\
+🌱 &nbsp;I'm on track for learning more about Backend Development, Data Science and DSA.\
 ✍️ &nbsp;In my free time, I enjoy listening to music alongside a cycling.\
 💬 &nbsp;Feel free to reach out to me anytime for help, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at idawra_be20@thapar.edu! I'll try to respond as soon as I can.\
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Pandas](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
