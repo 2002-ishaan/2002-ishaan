@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Computer Engineering at Thapar Institute of Technology, Patiala.\
-🌱 &nbsp;I'm on track for learning more about Backend Development, Data Science and DSA.\
+🌱 &nbsp;I'm on track for learning more about Full Stack Development\
 ✍️ &nbsp;In my free time, I enjoy listening to music alongside a cycling.\
 💬 &nbsp;Feel free to reach out to me anytime for help, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at idawra_be20@thapar.edu! I'll try to respond as soon as I can.\
