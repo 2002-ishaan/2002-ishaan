@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm on track for learning more about Full Stack Development\
 ✍️ &nbsp;In my free time, I enjoy listening to music alongside a cycling.\
 💬 &nbsp;Feel free to reach out to me anytime for help, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at idawra_be20@thapar.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dishaan772@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
