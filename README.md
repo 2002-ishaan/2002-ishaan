@@ -13,8 +13,8 @@
 
 ### 📜 Certifications
 
-- 🧠 AWS **Certified AI Practitioner** – https://www.credly.com/badges/664f919e-1e29-4c42-b46c-1181ddad1e78 
-- ☁️ AWS **Certified Cloud Practitioner** – https://www.credly.com/badges/4ff3890a-0ef8-4609-bb99-afce07a9b81e  
+- AWS **Certified AI Practitioner** – https://www.credly.com/badges/664f919e-1e29-4c42-b46c-1181ddad1e78 
+- AWS **Certified Cloud Practitioner** – https://www.credly.com/badges/4ff3890a-0ef8-4609-bb99-afce07a9b81e  
 
 
 <h3 align="left">Connect with me:</h3>
