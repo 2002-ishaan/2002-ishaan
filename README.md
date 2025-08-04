@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MLOps & CI/CD Pipelines**
 
-- 👨‍💻 All of my projects are available at [resume-projects folder on my GitHub profile for easy review.](resume-projects folder on my GitHub profile for easy review.)
+- 👨‍💻 All of my projects are available at **resume-projects folder on my GitHub profile for easy review**
 
 - 📫 How to reach me **dishaan772@gmail.com**
 
