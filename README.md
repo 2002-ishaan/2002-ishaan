@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Dawra</h1>
-<h3 align="center">I'm a Master of Management Analytics candidate at the Rotman School of Management. I enjoy connecting data, engineering, and business analytics to create solutions that make real impact. My process starts with asking the right questions, understanding the challenge, and delivering targeted, data-driven results. Core expertise: Python • Machine Learning • SQL • Predictive Analytics • Business Forecasting • Data Visualization • AWS Cloud (2× Certified)</h3>
+<h3 align="center">I'm a Master of Management Analytics candidate at the Rotman School of Management. I enjoy connecting data, engineering, and business analytics to create solutions that make real impact. My process starts with asking the right questions, understanding the challenge, and delivering targeted, data-driven results. Core expertise: Python • Machine Learning • SQL • Predictive Analytics • Business Forecasting • Data Visualization • AWS Cloud </h3>
 
 - 🔭 I’m currently working on how to **build end-to-end machine learning pipelines on AWS using SageMaker to develop scalable, production-ready solutions and strengthen my MLOps skillset.**
 
