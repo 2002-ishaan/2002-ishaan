@@ -7,6 +7,11 @@
 
 - 👨‍💻 All of my projects are available at **resume-projects folder on my GitHub profile for easy review**
 
+### 📜 Certifications
+
+- 🧠 AWS **Certified AI Practitioner** – https://www.credly.com/badges/664f919e-1e29-4c42-b46c-1181ddad1e78 
+- ☁️ AWS **Certified Cloud Practitioner** – https://www.credly.com/badges/4ff3890a-0ef8-4609-bb99-afce07a9b81e  
+
 - 📫 How to reach me **dishaan772@gmail.com**
 
 - ⚡ Fun fact **My hobbies include avoiding bugs… in both code and life.**
