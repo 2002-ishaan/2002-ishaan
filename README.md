@@ -35,8 +35,6 @@ ishaan = {
 }
 ```
 
-> **2nd place** at Rotman's internal Datathon — not by building the most complex model, but by spending the first hour on problem framing and making assumptions explicit. That mindset travels with me to every project.
-
 ---
 
 ## 🚀 Experience Snapshot
