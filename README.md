@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ishaan%20Dawra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20MMA%20%E2%80%9926%20Rotman&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ishaan%20Dawra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20MMA%20%E2%80%9926%20Rotman%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20ML&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -11,6 +11,7 @@
 ### 🎯 I don't just build models — I ask better questions first.
 
 *Master of Management Analytics @ Rotman School of Management (June 2026)*
+*Currently @ Meridian Credit Union as Data Scientist*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-dawra/)
 [![Email](https://img.shields.io/badge/Email-dishaan772%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishaan772@gmail.com)
@@ -25,14 +26,16 @@
 
 ```python
 ishaan = {
-    "role"       : "Data Scientist → bridging ML rigor with business clarity",
+    "role"       : "Data Scientist → turning complex data into decisions businesses trust",
     "education"  : "MMA @ Rotman School of Management (2025–2026)",
-    "currently"  : "Meridian Credit Union | Building production ML systems",
+    "currently"  : "Meridian Credit Union | Practicum — end-to-end analytics & ML pipeline on 10M+ customer records",
     "philosophy" : "Clarity > Complexity. The right question > The fanciest model.",
     "superpower" : "Translating messy data into decisions non-technical teams trust",
-    "open_to"    : "Full-time DS/ML roles where ownership is real from Day 1"
+    "open_to"    : "Full-time Data Scientist roles where ownership is real from Day 1"
 }
 ```
+
+> **2nd place** at Rotman's internal Datathon — not by building the most complex model, but by spending the first hour on problem framing and making assumptions explicit. That mindset travels with me to every project.
 
 ---
 
@@ -40,21 +43,18 @@ ishaan = {
 
 | Company | Role | Impact |
 |---|---|---|
-| 🏦 **Meridian Credit Union** | Data Scientist *(Jan 2026 – Present)* | Building end-to-end Data & ML pipeline across 10M+ customer records to predict, identify, and prioritize dormant accounts — engineering features, optimizing re-engagement costs, and delivering insights that drive smarter retention decisions at scale |
+| 🏦 **Meridian Credit Union** | Data Scientist — Practicum *(Jan 2026 – Present)* | Building end-to-end data & ML pipeline across 10M+ customer records to identify, predict, and prioritize dormant accounts — cutting re-engagement costs and delivering insights that help the business retain the right customers at the right time |
 | 🌐 **Genpact** | Data Scientist *(Feb – Aug 2024)* | ML churn model → improved high-risk client detection; NLP on 3,900+ reviews → sharper retention strategies |
 
 ---
 
-## 🏆 Competitive Record
-> **2nd Place — Rotman Datathon** | Won by focusing on problem framing over model complexity
-> 
-> **1st Place — Rotman Adversarial Debate (FOR category)** | Argued, analysed, and presented data-backed insights under tight time pressure
-> 
-> In both — the differentiator wasn't the analysis. It was the data storytelling and communication skills.
+## 🔨 What I'm Doing Right Now
+
+> Finishing my MMA at Rotman while competing — **2nd at Rotman's Datathon** and **1st at Rotman's Adversarial Debate (FOR)** — both won not by the most complex analysis, but by asking sharper questions and telling a clearer story under pressure. Actively seeking full-time Data Scientist roles for Summer/Fall 2026.
 
 ```
-Training  →  Versioning  →  Deployment  →  Monitoring  →  Re-training
-   SageMaker      S3 / MLflow    SageMaker EP     CloudWatch     CI/CD
+Raw Data  →  Cleaning & EDA  →  Feature Engineering  →  ML Modelling  →  Insights & Storytelling
+  SQL            Python               Python               Scikit-learn       Stakeholder Reporting
 ```
 
 📂 **All project code lives in the [`resume-projects`](./resume-projects) folder** — organized for recruiter review, not just personal archiving.
@@ -133,7 +133,7 @@ Most data scientists optimize their model first. I optimize the question first.
 
 Before writing a single line of modelling code, I map the *why* behind the problem — who it affects, what the end user actually needs, and what success looks like to the business. Better features follow naturally. But more importantly, the business understands and *trusts* the result.
 
-That combination — **technical depth + clear communication + business awareness** — is what I'm bringing into every role going forward.
+That combination — **technical depth + clear communication + business awareness** — is what I bring to every role.
 
 ---
 
