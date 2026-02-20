@@ -95,7 +95,6 @@ Raw Data  →  Cleaning & EDA  →  Feature Engineering  →  ML Modelling  → 
 |---|---|---|
 | ✅ AWS Certified **AI Practitioner** | Amazon Web Services | [Credly Badge](https://www.credly.com/badges/664f919e-1e29-4c42-b46c-1181ddad1e78) |
 | ✅ AWS Certified **Cloud Practitioner** | Amazon Web Services | [Credly Badge](https://www.credly.com/badges/4ff3890a-0ef8-4609-bb99-afce07a9b81e) |
-| ✅ Data Science & ML with Python | — | Certified |
 
 </div>
 
@@ -105,9 +104,9 @@ Raw Data  →  Cleaning & EDA  →  Feature Engineering  →  ML Modelling  → 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2002-ishaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=2002-ishaan&theme=tokyonight&hide_border=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2002-ishaan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2002-ishaan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
 </div>
 
