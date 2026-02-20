@@ -11,7 +11,6 @@
 ### 🎯 I don't just build models — I ask better questions first.
 
 *Master of Management Analytics @ Rotman School of Management (June 2026)*
-*Currently @ Meridian Credit Union as Data Scientist*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-dawra/)
 [![Email](https://img.shields.io/badge/Email-dishaan772%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishaan772@gmail.com)
